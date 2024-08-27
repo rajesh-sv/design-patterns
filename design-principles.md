@@ -9,3 +9,4 @@
 1. Principle of Least Knowledge/Law of Demeter: Talk only to your immediate friends
 1. Hollywood Principle: Don't call us, we'll call you (high-level modules should decide how and when to call low-level modules)
 1. Single Responsibility Principle: A class should have only one reason to change (keep each class to a single responsibility)
+1. Keep it simple, stupid (KISS)
